@@ -1,0 +1,31 @@
+09:23:27.617 [main] org.testng.log4testng.Logger.debug(Logger.java:82)avel org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml"
+09:23:27.986 [main] org.testng.log4testng.Logger.info(Logger.java:112)avel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml
+
+09:27:39.469 [main] org.testng.log4testng.Logger.debug(Logger.java:82)avel org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml"
+09:27:40.016 [main] org.testng.log4testng.Logger.info(Logger.java:112)avel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml
+
+09:28:10.626 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:15)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Started*********
+09:28:14.146 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:25)avel testCases.TC_003_CurrencyChangeTest - Test Passed
+09:28:14.147 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:31)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Finished*********
+09:28:50.667 [main] org.testng.log4testng.Logger.debug(Logger.java:82)avel org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml"
+09:28:51.156 [main] org.testng.log4testng.Logger.info(Logger.java:112)avel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml
+
+09:31:13.744 [main] org.testng.log4testng.Logger.debug(Logger.java:82)avel org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml"
+09:31:14.313 [main] org.testng.log4testng.Logger.info(Logger.java:112)avel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml
+
+09:31:22.366 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:15)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Started*********
+09:31:25.794 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:25)avel testCases.TC_003_CurrencyChangeTest - Test Passed
+09:31:25.795 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:31)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Finished*********
+09:33:08.415 [main] testCases.TC_004_SearchTest.searchTest(TC_004_SearchTest.java:14)avel testCases.TC_004_SearchTest - ******TC_004_SearchTest is Started********
+18:05:00.765 [main] org.testng.log4testng.Logger.debug(Logger.java:82)avel org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml"
+18:05:01.418 [main] org.testng.log4testng.Logger.info(Logger.java:112)avel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\MobileTesting\OpenCart_Project\master.xml
+
+18:05:07.805 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:15)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Started*********
+18:05:11.826 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:25)avel testCases.TC_003_CurrencyChangeTest - Test Passed
+18:05:11.826 [main] testCases.TC_003_CurrencyChangeTest.CurrencyTest(TC_003_CurrencyChangeTest.java:31)avel testCases.TC_003_CurrencyChangeTest - ***********Currency DropdownTest Finished*********
+18:05:49.648 [main] testCases.TC_004_SearchTest.searchTest(TC_004_SearchTest.java:14)avel testCases.TC_004_SearchTest - ******TC_004_SearchTest is Started********

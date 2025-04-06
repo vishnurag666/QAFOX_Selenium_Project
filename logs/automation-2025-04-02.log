@@ -1,0 +1,9 @@
+21:35:10.218 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:38)avel testCases.TC_001_AccountRegistrationTest - Validating expected message...
+21:35:10.306 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:50)avel testCases.TC_001_AccountRegistrationTest - finished TC_001_AccountRegistrationTest
+21:35:17.091 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:18)avel testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistrationTest
+21:35:20.281 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:24)avel testCases.TC_001_AccountRegistrationTest - clicked on register link
+21:35:20.283 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:26)avel testCases.TC_001_AccountRegistrationTest - Providing details
+21:35:25.217 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:38)avel testCases.TC_001_AccountRegistrationTest - Validating expected message...
+21:35:25.261 [main] testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:50)avel testCases.TC_001_AccountRegistrationTest - finished TC_001_AccountRegistrationTest
+21:35:30.397 [main] testCases.TC_002_AccountLoginTest.LoginTest(TC_002_AccountLoginTest.java:15)avel testCases.TC_002_AccountLoginTest - ******Starting TC_002_AccountLoginTest********
+21:35:35.449 [main] testCases.TC_002_AccountLoginTest.LoginTest(TC_002_AccountLoginTest.java:22)avel testCases.TC_002_AccountLoginTest - clicked on login link
