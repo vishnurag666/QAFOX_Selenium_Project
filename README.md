@@ -44,22 +44,5 @@ This project is built using the **Page Object Model (POM)** design pattern and p
 
 ---
 
-## 📁 Project Structure
 
-QAFOX_Selenium_Project 
 
-├── logs/                      # Directory for log files
-├── src/
-│   └── test/
-│       ├── java/
-│       │   ├── pageObjects/   # Page classes for each module (e.g., LoginPage, HomePage)
-│       │   ├── testCases/     # TestNG classes containing test methods
-│       │   └── utilities/     # Reusable utilities and helper classes
-│       └── resources/         # Configuration files (e.g., test data, properties files)
-├── target/                    # Compiled bytecode and build artifacts
-├── test-output/               # TestNG-generated reports and output files
-├── .classpath                 # Eclipse-specific classpath settings
-├── .project                   # Eclipse project file
-├── Parallel.xml               # TestNG suite file for parallel execution
-├── master.xml                 # Main TestNG suite file
-└── pom.xml                    # Maven Project Object Model file
